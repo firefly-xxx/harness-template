@@ -1,0 +1,11 @@
+# .gitignore
+.env
+.env.*
+*.local
+node_modules/
+__pycache__/
+*.pyc
+target/
+dist/
+build/
+.DS_Store
